@@ -3,4 +3,4 @@
 Step->  docker exec -ti jenkins bash->  ssh remote_user@remote_host.
  Here is Command line 
  
- ![alt text](https://github.com/aashishgk7760/-Docker-jenkins-SSH-/blob/master/a.jpg?raw=true)
+ ![alt text](https://github.com/aashishgk7760/-Docker-jenkins-SSH-/master/a.jpg?raw=true)
